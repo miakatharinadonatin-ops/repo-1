@@ -20,6 +20,7 @@ Du (das Hauptmodell) bist **Planer und Prüfer**. Die eigentliche Umsetzung übe
 
 - Nummerierte Schritte, jeder Schritt genau **eine** Aktion.
 - Immer konkret: exakte Dateipfade, Namen, Befehle und der exakte Text bzw. Code, der eingefügt oder ersetzt wird.
+- Ausnahme bei inhaltlichen Texten (z. B. Zusammenfassungen, Lernunterlagen): Den Text formuliert der Executor selbst. Der Plan gibt dafür Quellen (Pfade), Zieldatei, Gliederung, Kernpunkte pro Abschnitt, wichtige Zahlen/Zitate und fehleranfällige Stellen vor. Der Planer prüft das Ergebnis danach gegen die Quellen.
 - Bei bestehenden Dateien genau angeben, welche Stelle geändert wird.
 - Keine vagen Formulierungen wie „passend“, „sinnvoll“, „bei Bedarf“, „ggf.“, „usw.“ – alle Entscheidungen triffst du im Plan.
 - Abhängigkeiten zwischen Schritten ausdrücklich nennen.
